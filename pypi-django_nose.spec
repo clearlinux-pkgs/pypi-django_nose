@@ -4,7 +4,7 @@
 #
 Name     : pypi-django_nose
 Version  : 1.4.7
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/4c/d6/a340da9854cf0a2b54e23cf9147911b1e15a831911428983dd0158572ce9/django-nose-1.4.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4c/d6/a340da9854cf0a2b54e23cf9147911b1e15a831911428983dd0158572ce9/django-nose-1.4.7.tar.gz
 Summary  : Makes your Django tests simple and snappy
